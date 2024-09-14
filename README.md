@@ -32,8 +32,6 @@ As a data science research assistant, I noticed that students often struggled to
 
 ## Architecture Overview
 
-![Architecture Diagram](assets/architecture.png)
-
 1. **Data Extraction**: Lecture slides are converted from PDFs to text using PyPDF2.
 2. **Text Chunking**: The extracted text is split into manageable chunks using LangChain's `RecursiveCharacterTextSplitter`.
 3. **Embedding Generation**: Each text chunk is converted into embeddings via Ollama's LLaMA 3 model.
@@ -56,11 +54,3 @@ As a data science research assistant, I noticed that students often struggled to
   - `gradio`
   - `discord.py`
   - `PyPDF2`
-
-## Installation
-
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/yourusername/discord-llama-chatbot.git
-   cd discord-llama-chatbot
