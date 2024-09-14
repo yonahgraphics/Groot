@@ -15,8 +15,6 @@ An intelligent Discord chatbot designed to enhance the student learning experien
 - [Monitoring and Maintenance](#monitoring-and-maintenance)
 - [Packages Used](#packages-used)
 - [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Introduction
 
