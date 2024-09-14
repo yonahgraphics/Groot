@@ -10,11 +10,6 @@ An intelligent Discord chatbot designed to enhance the student learning experien
 - [Features](#features)
 - [Architecture Overview](#architecture-overview)
 - [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Monitoring and Maintenance](#monitoring-and-maintenance)
-- [Packages Used](#packages-used)
-- [Contributing](#contributing)
 
 ## Introduction
 
