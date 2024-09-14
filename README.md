@@ -2,7 +2,9 @@
 
 An intelligent Discord chatbot designed to enhance the student learning experience by providing quick, automated answers to questions using LLaMA 3 and Retrieval-Augmented Generation (RAG).
 
-![Discord Chatbot Demo](assets/demo.gif)
+![Screenshots](input_data/one.png)
+![](input_data/two.png)
+![](input_data/three.png)
 
 ## Table of Contents
 
